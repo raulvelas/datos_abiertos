@@ -6,11 +6,10 @@ Los estándares que se presentarán en este documento ha sido el trabajo bajo el
 
 Tanto el comité intersectorial y la mesa de datos abiertos han sido coordinadas y lideradas desde la SETAPLAN con el propósito de de fortalecer los mecanismos de comunicación y reutilización de información bajo la utilización de criterios básicos para la creación de registros, o sistemas en la administración pública.
 
-### Códigos para Registro de Personas
 
-####  1. Nombre 
+###  1. Nombre 
 
-**Estructura:**
+Estructura:
 1. Primer nombre 
 2. Segundo Nombre 
 3. Tercer Nombre 
@@ -20,17 +19,17 @@ Tanto el comité intersectorial y la mesa de datos abiertos han sido coordinadas
 7. Persona Responsable (si aplica)
 8. Conocido por según DUI (si aplica)
 
-**Norma:** No aplica  
-**Tipo de dato:** Alfanumerico  
-**Ejemplo:** Mario Perez  
+Norma: No aplica  
+Tipo de dato: Alfanumerico  
+Ejemplo: Mario Perez  
 
 *Cada nombre o apellido deberá ser almacenado en un campo individual*
 
 ####  1. Fecha de Nacimiento   
-**Estructura:** «YYYY-MM-DD»  
-**Norma:** ISO 8601  
-**Tipo de dato:** Alfanumerico  
-**Ejemplo:** 2018-05-07  
+Estructura: «YYYY-MM-DD»  
+Norma: ISO 8601  
+Tipo de dato: Alfanumerico  
+Ejemplo: 2018-05-07  
 
 *Donde YYYY representa el año, MM el mes y DD el día del mes*
 

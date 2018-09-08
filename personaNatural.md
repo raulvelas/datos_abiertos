@@ -25,7 +25,7 @@ Ejemplo: Mario Perez
 
 *Cada nombre o apellido deberá ser almacenado en un campo individual*
 
-####  1. Fecha de Nacimiento   
+###  2. Fecha de Nacimiento   
 Estructura: «YYYY-MM-DD»  
 Norma: ISO 8601  
 Tipo de dato: Alfanumerico  

@@ -4,7 +4,7 @@ El gobierno de El Salvador reconoce la necesidad de contar con una Política Nac
 
 Como parte de la implementacion de esta política, en este repositorio encontrara los modelos de registro para [Persona Natural](personaNatural.md) y [Persona Jurídica](personaJuridica.md).
 
-Puede agregar sus consultas en esta plataforma o directamente a la Dirección de Gobierno Electrónico, 2511 5073.
+Puede agregar sus consultas en esta plataforma o directamente a la Dirección de Gobierno Electrónico al teléfono 2511 5073.
 
 ## Licencia
 

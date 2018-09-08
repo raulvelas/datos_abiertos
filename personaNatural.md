@@ -32,13 +32,13 @@ Tipo de dato: Alfanumerico
 Ejemplo: 2018-05-07  
 
 *Donde YYYY representa el año, MM el mes y DD el día del mes*
-
-
-
+  
+  
+  
 **PENDIENTE DE TERMINAR**
-
-
-
+  
+  
+  
 
 ## Licencia
 

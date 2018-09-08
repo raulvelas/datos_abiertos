@@ -2,9 +2,9 @@
 
 ## Estándar para el registro de la persona natural
 
-Los estándares que se presentarán en este documento ha sido el trabajo bajo el consenso de representantes de instituciones tales como MINEC, INJUVE, ISDEMU, ISNA, MOP, MH, MTPS, MINED, SETEPLAN entre otras a través de acuerdos tomados en la comisión  para la estandarización de procesos del Comité Intersectorial del Subsistema de Protección Social, asi mismo se ha ratificado, compartido, mejorado y consensuado en la mesa de líderes de Datos Abiertos en la que participan líderes de tecnología de instituciones como Ministerio de Hacienda, Comisión Portuaria Autónoma, Instituto Salvadoreño del Seguro Social, Ministerio de Obras Publicas y Ministerio de Salud. 
+Los estándares listados en este documento han sido consensuados por representantes de MINEC, INJUVE, ISDEMU, ISNA, MOP, MH, MTPS, MINED, SETEPLAN entre otras desde la comisión  para la estandarización de procesos del Comité Intersectorial del Subsistema de Protección Social.  Asi mismo se ha ratificado, compartido, mejorado y consensuado en la mesa de líderes de Datos Abiertos en la que participan líderes de tecnología de instituciones como Ministerio de Hacienda, Comisión Portuaria Autónoma, Instituto Salvadoreño del Seguro Social, Ministerio de Obras Publicas y Ministerio de Salud. 
 
-Tanto el comité intersectorial y la mesa de datos abiertos han sido coordinadas y lideradas desde la SETAPLAN con el propósito de de fortalecer los mecanismos de comunicación y reutilización de información bajo la utilización de criterios básicos para la creación de registros, o sistemas en la administración pública.
+Puede agregar sus consultas en esta plataforma o directamente a la Dirección de Gobierno Electrónico, 2511 5073.  
 
 
 ###  1. Nombre 

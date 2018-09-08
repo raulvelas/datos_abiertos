@@ -20,19 +20,17 @@ Tanto el comité intersectorial y la mesa de datos abiertos han sido coordinadas
 7. Persona Responsable (si aplica)
 8. Conocido por según DUI (si aplica)
 
-**Norma:** No aplica
-
-**Tipo de dato:** Alfanumerico
-
-**Ejemplo:** Mario Perez 
+**Norma:** No aplica  
+**Tipo de dato:** Alfanumerico  
+**Ejemplo:** Mario Perez  
 
 *Cada nombre o apellido deberá ser almacenado en un campo individual*
 
-####  1. Fecha de Nacimiento 
-**Estructura:** «YYYY-MM-DD»
-**Norma:** ISO 8601
-**Tipo de dato:** Alfanumerico
-**Ejemplo:** 2018-05-07
+####  1. Fecha de Nacimiento   
+**Estructura:** «YYYY-MM-DD»  
+**Norma:** ISO 8601  
+**Tipo de dato:** Alfanumerico  
+**Ejemplo:** 2018-05-07  
 
 *Donde YYYY representa el año, MM el mes y DD el día del mes*
 
